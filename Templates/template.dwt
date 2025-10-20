@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title><!-- TemplateBeginEditable name="pageTitle" -->Home<!-- TemplateEndEditable --></title>
+<link href="../CSS/styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="wrapper">
+	<header>
+    	<img src="../Media/logotrans2.png" width="400" height="200" alt=""/>  
+	</header>
+	<nav>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="../Menu/index.html">Menu</a></li>
+			<li><a href="../About/index.html">About</a></li>
+			<li><a href="../Contact/index.html">Contact</a></li>
+		</ul>
+	</nav>
+	<main>
+		<!-- TemplateBeginEditable name="mainContent" -->
+		<p>Main page content goes here.</p>
+		<!-- TemplateEndEditable -->
+	</main>
+	<aside>
+		<!-- TemplateBeginEditable name="sidebar" -->
+		<p>Optional sidebar content.</p>
+		<!-- TemplateEndEditable -->
+	</aside>
+	<footer>
+		<!-- TemplateBeginEditable name="footer" -->
+		<p>&copy; 2025 Your Site</p>
+		<!-- TemplateEndEditable -->
+	</footer>
+</div>
+</body>	
+</html>
